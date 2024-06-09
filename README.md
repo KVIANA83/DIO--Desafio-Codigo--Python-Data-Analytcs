@@ -9,5 +9,5 @@
 - *Cálculo de Mediana*
 
 **Básico 2**
-- *
-- *
+- *Remoção de Duplicatas*
+- *Remoção de Valores Nulos*
