@@ -18,4 +18,4 @@
   
 **Intermediário 2**
 - *Filtragem de Dados por Palavra-Chave*
-- *
+- *Cálculo de Moda*
