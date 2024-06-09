@@ -13,5 +13,9 @@
 - *Contagem de Valores Nulos*
 
 **Intermediário 1**
-
+- *Normalização de Dados*
+- *
+  
 **Intermediário 2**
+- *
+- *
