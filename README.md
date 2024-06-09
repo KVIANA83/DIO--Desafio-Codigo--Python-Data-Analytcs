@@ -14,7 +14,7 @@
 
 **Intermediário 1**
 - *Normalização de Dados*
-- *
+- *Agrupamento de Dados por Faixa Etária*
   
 **Intermediário 2**
 - *
