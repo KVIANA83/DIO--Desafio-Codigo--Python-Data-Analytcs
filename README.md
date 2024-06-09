@@ -10,4 +10,8 @@
 
 **Básico 2**
 - *Remoção de Duplicatas*
-- *Remoção de Valores Nulos*
+- *Contagem de Valores Nulos*
+
+**Intermediário 1**
+
+**Intermediário 2**
